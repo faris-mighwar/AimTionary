@@ -1,0 +1,45 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable-v24/bottombar_dev_about.xml" value="0.1945" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable-v24/bottombar_dev_coloured.xml" value="0.1855" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable-v24/bottombar_home_about.xml" value="0.1945" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable-v24/bottombar_home_colored.xml" value="0.164" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable-v24/bottombar_home_coloured.xml" value="0.1855" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/about_selector.xml" value="0.1855" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/bottombar_dev.xml" value="0.1945" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/bottombar_home.xml" value="0.1945" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/home_selector.xml" value="0.1855" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/ic_line.xml" value="0.1945" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/right_arrow.xml" value="0.1945" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/drawable/whatsapp.xml" value="0.126" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_about.xml" value="0.33" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_about_us.xml" value="0.1" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_code_scanner.xml" value="0.18432971014492755" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_face_recognition.xml" value="0.13451086956521738" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_facial_expression.xml" value="0.20416666666666666" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_image_to_text.xml" value="0.13451086956521738" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_objectdetector.xml" value="0.2" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_sign_language.xml" value="0.1" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/activity_storage_recognition.xml" value="0.18432971014492755" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/item.xml" value="0.18432971014492755" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/resolution_item.xml" value="0.18432971014492755" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/layout/video_item.xml" value="0.18432971014492755" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/menu/bottom_nav_menu_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/menu/bottom_nav_menu_tentang.xml" value="0.20416666666666666" />
+        <entry key="..\:/Penelitian Ilmiah/AndroidStudioProjects/aimla API 29/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.126" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

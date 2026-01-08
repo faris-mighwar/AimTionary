@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".storageRecognitionActivity">
+
+    <LinearLayout
+        android:id="@+id/read_text_bar"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_gravity="top"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:id="@+id/read_text_button"
+            android:text="Baca"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:layout_marginTop="15dp"
+            android:backgroundTint="@color/pink_1"
+            android:background="@drawable/square2_button"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/pink_1"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        >
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:id="@+id/select_image"
+            android:text="Pilih Gambar"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="@color/pink_1"
+            android:background="@drawable/square2_button"
+
+            />
+
+    </LinearLayout>
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="60dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/image_view"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:text="" />
+        
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "AimTionary"
+include ':openCVLibrary3413'
+
