@@ -1,26 +1,28 @@
 Detect object trough phone camera and translate it into three different languages in real-time:
 
-<img src="https://github.com/user-attachments/assets/c271b3b0-58cc-45cf-818a-a5a6b8e71bf5" alt="WhatsApp Image 2024-07-23 at 10 18 29" width="200"/>
-<img src="https://github.com/user-attachments/assets/34035bf5-60d6-426e-b549-3737aa36286f" alt="WhatsApp Image 2024-07-23 at 10 18 41 (2)" width="200"/>
-<img src="https://github.com/user-attachments/assets/b66ef365-0c3c-43ce-93b8-a40fbd2e0c6f" alt="WhatsApp Image 2024-07-23 at 10 18 41 (1)" width="200"/>
+<img width="200" alt="Real-time Translation Cassowary (1)" src="https://github.com/user-attachments/assets/5b13f94b-ad9b-42a1-aad6-95afa2b3d336" />
+<img width="200" alt="Real-time Translation Cassowary (3)" src="https://github.com/user-attachments/assets/833d2718-7c89-477f-b606-c1b59334b0c6" />
+<img width="200" alt="Real-time Translation Cassowary (2)" src="https://github.com/user-attachments/assets/ad4854ce-d09c-4c39-811d-8000e097b01f" />
 
+---
 
+<img width="200" alt="Real-time Translation Headphone (4)" src="https://github.com/user-attachments/assets/e362d1af-ecc2-4c3b-a63a-9d66f9f6cd09" />
+<img width="200" alt="Real-time Translation Headphone (5)" src="https://github.com/user-attachments/assets/9543825a-f3f1-49b3-9792-32f7853403e6" />
+<img width="200" alt="Real-time Translation Headphone (6)" src="https://github.com/user-attachments/assets/4b45c2d2-3dff-4e56-9674-e66c396f1592" />
 
-Detect object from phone storage or from provided images and translate it in three different languages:
+---
+<img width="200" alt="Real-time Translation Rafflessia (1)" src="https://github.com/user-attachments/assets/51c76222-439c-464e-a7ba-6af9d3afa5b7" />
+<img width="200" alt="Real-time Translation Rafflessia (3)" src="https://github.com/user-attachments/assets/16d7d300-03fb-4a83-87b0-6172ebb3139d" />
+<img width="200" alt="Real-time Translation Rafflessia (2)" src="https://github.com/user-attachments/assets/10326b7f-0f0c-4255-8236-f8be8ce9c37f" />
 
-<img src="https://github.com/user-attachments/assets/08f4f194-213c-47d0-a46e-d4ff1a28dc0d" alt="WhatsApp Image 2024-07-23 at 10 18 31 (1)" width="200"/>
-<img src="https://github.com/user-attachments/assets/614fb893-f777-4688-ab23-1ac893978737" alt="WhatsApp Image 2024-07-23 at 10 18 31" width="200"/>
-<img src="https://github.com/user-attachments/assets/cc99a52d-a763-45d0-8ab4-eec02e3e171c" alt="WhatsApp Image 2024-07-23 at 10 18 30" width="200"/>
-<img src="https://github.com/user-attachments/assets/0b54d96f-0bbe-4e1b-93a3-a9d36e9bb666" alt="WhatsApp Image 2024-07-23 at 10 18 41" width="200"/>
-<img src="https://github.com/user-attachments/assets/9b2f132f-5e50-419e-97dd-110e09aef656" alt="WhatsApp Image 2024-07-23 at 10 18 40 (1)" width="200"/>
-<img src="https://github.com/user-attachments/assets/e8ab619c-09ba-41d4-a0a9-a7e91992a88d" alt="WhatsApp Image 2024-07-23 at 10 18 40" width="200"/>
-<img src="https://github.com/user-attachments/assets/3f10a526-fa79-43b1-919f-7a96cc5678ca" alt="WhatsApp Image 2024-07-23 at 10 18 39" width="200"/>
-<img src="https://github.com/user-attachments/assets/902c519b-d536-4e35-887c-debc688e5669" alt="WhatsApp Image 2024-07-23 at 10 18 38 (2)" width="200"/>
-<img src="https://github.com/user-attachments/assets/e4eaa98a-b6fa-4d57-bdb1-47a92c1b6b56" alt="WhatsApp Image 2024-07-23 at 10 18 38 (1)" width="200"/>
-<img src="https://github.com/user-attachments/assets/32d53124-f53f-4d48-8403-d443bb56d784" alt="WhatsApp Image 2024-07-23 at 10 18 38" width="200"/>
-<img src="https://github.com/user-attachments/assets/15c8f298-d87f-4c75-a26a-b2856d4e0c8f" alt="WhatsApp Image 2024-07-23 at 10 18 37 (2)" width="200"/>
-<img src="https://github.com/user-attachments/assets/83ccbf35-8510-4ad3-be5e-ccf615a95da6" alt="WhatsApp Image 2024-07-23 at 10 18 37" width="200"/>
-<img src="https://github.com/user-attachments/assets/99adfc12-ae7a-419c-9510-7efb12f6b12f" alt="WhatsApp Image 2024-07-23 at 10 18 34 (1)" width="200"/>
-<img src="https://github.com/user-attachments/assets/2461e080-24b4-4e3c-8469-e4f0cffedbbd" alt="WhatsApp Image 2024-07-23 at 10 18 32" width="200"/>
-<img src="https://github.com/user-attachments/assets/00d32a5e-ee6d-4780-965a-6d68ca2d4b00" alt="WhatsApp Image 2024-07-23 at 10 18 31 (2)" width="200"/>
+---
+<img width="200" alt="Real-time Translation Roller Skate (2)" src="https://github.com/user-attachments/assets/777d7f30-f8ef-4ac8-8a9b-36199ec42ff8" />
+<img width="200" alt="Real-time Translation Roller Skate (1)" src="https://github.com/user-attachments/assets/d68cbc38-db38-4476-8f5b-90f50ae47d38" />
+<img width="200" alt="Real-time Translation Roller Skate (3)" src="https://github.com/user-attachments/assets/e2d57e64-efea-4ed5-9430-7e4ee282e53f" />
+
+---
+
+<img width="200" alt="Real-time Translation hanger (1)" src="https://github.com/user-attachments/assets/8c25e980-e5b9-4f0b-bc75-74562a065de2" />
+<img width="200" alt="Real-time Translation hanger (2)" src="https://github.com/user-attachments/assets/2edfe01a-f5a1-47c1-a7e0-8cca1883e082" />
+<img width="200" alt="Real-time Translation hanger (3)" src="https://github.com/user-attachments/assets/254791bc-74f2-4d0c-a83d-46ef409cec8b" />
 
